@@ -1,2 +1,1 @@
-# generate
-generate ktpkk
+# KTP-KK
