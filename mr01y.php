@@ -34,7 +34,7 @@ function kkktp_banner(){
   ▀                                                          ▀         
  =====================================
  | Coded by:  ./mr01y                |
- | Wa : https://wa.me/6281392717132  |
+ | Team    :  Blora Deface Team      |
  =====================================
  
   \n";
