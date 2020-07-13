@@ -37,6 +37,8 @@ function kkktp_banner(){
  | Team    :  Blora Deface Team      |
  =====================================
  
+ semoga beruntung, kalo gagal coba lagi:)
+ 
   \n";
 }
 ?> 
